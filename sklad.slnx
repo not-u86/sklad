@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="sklad.vcxproj" Id="f1ac6d8f-5599-4f76-b09f-a7046252e023" />
+</Solution>
